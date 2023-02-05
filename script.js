@@ -17,3 +17,7 @@ function Palendrome() {
 const string = prompt('Enter a string or number: ');
 
 Palendrome(string);
+
+
+
+
